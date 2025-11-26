@@ -7,9 +7,7 @@ I'm **Muhammed Irshad**, a passionate developer who loves creating innovative so
 Aspiring Full-Stack Developer with hands-on experience in building web applications using the MERN stack (MongoDB, Express.js, React, Node.js).  
 Currently undergoing an internship in web development, actively contributing to real-world projects, and sharpening both front-end and back-end skills.  
 
-Comfortable working with modern JavaScript, RESTful APIs, and responsive UI design.  
-Also exploring Python, Django, and SQL to expand backend expertise.  
-
+Possesses foundational knowledge in Python, Django, and SQL, expanding expertise beyond JavaScript.
 Passionate about clean code, continuous learning, and collaborative development. 
 
 ## Skills & Technologies
